@@ -12,8 +12,8 @@ const Main = styled.main`
 function Pagina404() {
   return (
     <Main>
-      <h2 style={{ textAlign: "center", position: "relative" }}>
-        404 - Esta página não pode ser encontrada
+      <h2 style={{ textAlign: "center", top: "78px", position: "relative" }}>
+        404 - Página não encontrada
       </h2>
       <iframe
         title="game"
@@ -25,7 +25,9 @@ function Pagina404() {
         frameborder="0"
       ></iframe>
       <Link to="/">
-        <h3 style={{ textAlign: "center" }}>Ir para home</h3>
+        <h3 style={{ textAlign: "center", top: "-78px", position: "relative" }}>
+          Ir para home
+        </h3>
       </Link>
     </Main>
   );
