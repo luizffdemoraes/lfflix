@@ -1,0 +1,183 @@
+{
+  "categorias": [
+    {
+      "titulo": "Filmes",
+      "link": "https://youtu.be/mlM9TYDwCwA",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Baseado em quadrinhos",
+        "url": "https://youtu.be/mlM9TYDwCwA"
+      },
+      "videos": [
+        {
+          "titulo": "Coringa",
+          "url": "https://youtu.be/jfVTJm9NilA"
+        },
+        {
+          "titulo": "Batman Begins - Official Trailer",
+          "url": "https://youtu.be/neY2xVmOfUM"
+        },
+        {
+          "titulo": "Aquaman - Official Trailer",
+          "url": "https://youtu.be/WDkg3h8PCVU"
+        },
+        {
+          "titulo": "Capitão América: Guerra Civil - Oficial Trailer",
+          "url": "https://youtu.be/wia_yMhTpDg"
+        },
+        {
+          "titulo": "Avengers Endgame - Official Trailer",
+          "url": "https://youtu.be/hA6hldpSTF8"
+        },
+        {
+          "titulo": "Iron Man - Trailer",
+          "url": "https://youtu.be/8ugaeA-nMTc"
+        },
+        {
+          "titulo": "Guardiões da Galáxia - Trailer",
+          "url": "https://youtu.be/8VN_l57QWyQ"
+        },
+        {
+          "titulo": "Logan - Trailer",
+          "url": "https://youtu.be/RH3OxVFvTeg"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Baseadas em Quadrinhos ou Livros",
+        "url": "https://youtu.be/wuYFaBXVsNo"
+      },
+      "videos": [
+        {
+          "titulo": "O Justiceiro - Trailer",
+          "url": "https://youtu.be/vw0A5o5zwbw"
+        },
+        {
+          "titulo": "Gotham - Trailer",
+          "url": "https://youtu.be/UEUU8OyPOyI"
+        },
+        {
+          "titulo": "The Walking Dead - Trailer",
+          "url": "https://youtu.be/R1v0uFms68U"
+        },
+        {
+          "titulo": "The Flash - Trailer",
+          "url": "https://youtu.be/Yj0l7iGKh8g"
+        },
+        {
+          "titulo": "Demolidor - Trailer",
+          "url": "https://youtu.be/U-D-WtozIfo"
+        },
+        {
+          "titulo": "Raio Negro - Trailer",
+          "url": "https://youtu.be/yzphZ8dQdtw"
+        }
+      ]
+    },
+    {
+      "titulo": "Anime",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Animação ou desenho animado.",
+        "url": "https://youtu.be/QpRygHQ6tIE"
+      },
+      "videos": [
+        {
+          "titulo": "Demon Slayer: Kimetsu no Yaiba Trailer",
+          "url": "https://youtu.be/VQGCKyvzIM4"
+        },
+        {
+          "titulo": "Naruto Shippuden Official Trailer",
+          "url": "https://youtu.be/thh7bVCgDHs"
+        },
+        {
+          "titulo": "Fullmetal Alchemist Brotherhood Trailer",
+          "url": "https://youtu.be/dqDB6gQLbPM"
+        },
+        {
+          "titulo": "Demon Slayer: Kimetsu no Yaiba Trailer",
+          "url": "https://youtu.be/VQGCKyvzIM4"
+        },
+        {
+          "titulo": "Hunter X Hunter - Trailer",
+          "url": "https://youtu.be/d6kBeJjTGnY"
+        },
+        {
+          "titulo": "Saint Seiya The Lost Canvas - Trailer",
+          "url": "https://youtu.be/rG7A1rfetVU"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Jogos interessantes.",
+        "url": "https://youtu.be/QpRygHQ6tIE"
+      },
+      "videos": [
+        {
+          "titulo": "Summoners War",
+          "url": "https://youtu.be/6xYCsZW07o4"
+        },
+        {
+          "titulo": "Summoners War",
+          "url": "https://youtu.be/6xYCsZW07o4"
+        },
+        {
+          "titulo": "Forza Horizon",
+          "url": "https://youtu.be/IcPz9Dlw9V8"
+        },
+        {
+          "titulo": "Mortal Kombat 9",
+          "url": "https://youtu.be/SfqmGy98Mw4"
+        },
+        {
+          "titulo": "Super Street Fighter 4",
+          "url": "https://youtu.be/R8SD_M_ccac"
+        },
+        {
+          "titulo": "Darkstalkers",
+          "url": "https://youtu.be/WqBhOMBDgCs"
+        }
+      ]
+    },
+    {
+      "titulo": "Musicas",
+      "cor": "red",
+      "link_extra": {
+        "text": "My Playlist",
+        "url": "https://youtu.be/ChV5BZ8SmS0"
+      },
+      "videos": [
+        {
+          "titulo": "Matisyahu - King Without A Crown",
+          "url": "https://youtu.be/ChV5BZ8SmS0"
+        },
+        {
+          "titulo": "Matisyahu - King Without A Crown",
+          "url": "https://youtu.be/ChV5BZ8SmS0"
+        },
+        {
+          "titulo": "Skrillex & Damian 'Jr. Gong' Marley - Make It Bun Dem",
+          "url": "https://youtu.be/BGpzGu9Yp6Y"
+        },
+        {
+          "titulo": "AC/DC - Back In Black",
+          "url": "https://youtu.be/pAgnJDJN4VA"
+        },
+        {
+          "titulo": "Adhemar de Campos - Nosso General",
+          "url": "https://youtu.be/JgX5ccXNtAU"
+        },
+        {
+          "titulo": "Hillsong United - Oceans",
+          "url": "https://youtu.be/HVAR85rorvU"
+        }
+      ]
+    }
+  ]
+}
