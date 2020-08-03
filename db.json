@@ -1,0 +1,201 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Filmes",
+      "cor": "#c81912",
+      "link_extra": {
+        "text": "Baseado em quadrinhos",
+        "url": "https://youtu.be/mlM9TYDwCwA"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Séries",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Baseadas em Quadrinhos ou Livros",
+        "url": "https://youtu.be/wuYFaBXVsNo"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Anime",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Animação ou desenho animado.",
+        "url": "https://youtu.be/QpRygHQ6tIE"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Games",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Jogos interessantes.",
+        "url": "https://youtu.be/QpRygHQ6tIE"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Musicas",
+      "cor": "red",
+      "link_extra": {
+        "text": "My Playlist",
+        "url": "https://youtu.be/ChV5BZ8SmS0"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Coringa",
+      "url": "https://youtu.be/jfVTJm9NilA"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Batman Begins - Official Trailer",
+      "url": "https://youtu.be/neY2xVmOfUM"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Aquaman - Official Trailer",
+      "url": "https://youtu.be/WDkg3h8PCVU"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Capitão América: Guerra Civil - Oficial Trailer",
+      "url": "https://youtu.be/wia_yMhTpDg"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Avengers Endgame - Official Trailer",
+      "url": "https://youtu.be/hA6hldpSTF8"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Iron Man - Trailer",
+      "url": "https://youtu.be/8ugaeA-nMTc"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Guardiões da Galáxia - Trailer",
+      "url": "https://youtu.be/8VN_l57QWyQ"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Logan - Trailer",
+      "url": "https://youtu.be/RH3OxVFvTeg"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "O Justiceiro - Trailer",
+      "url": "https://youtu.be/vw0A5o5zwbw"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Gotham - Trailer",
+      "url": "https://youtu.be/UEUU8OyPOyI"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "The Walking Dead - Trailer",
+      "url": "https://youtu.be/R1v0uFms68U"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "The Flash - Trailer",
+      "url": "https://youtu.be/Yj0l7iGKh8g"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Demolidor - Trailer",
+      "url": "https://youtu.be/U-D-WtozIfo"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+       "titulo": "Raio Negro - Trailer",
+      "url": "https://youtu.be/yzphZ8dQdtw"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+       "titulo": "Demon Slayer: Kimetsu no Yaiba Trailer",
+          "url": "https://youtu.be/VQGCKyvzIM4"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Naruto Shippuden Official Trailer",
+          "url": "https://youtu.be/thh7bVCgDHs"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Fullmetal Alchemist Brotherhood Trailer",
+          "url": "https://youtu.be/dqDB6gQLbPM"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+        "titulo": "Demon Slayer: Kimetsu no Yaiba Trailer",
+          "url": "https://youtu.be/VQGCKyvzIM4"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+       "titulo": "Hunter X Hunter - Trailer",
+          "url": "https://youtu.be/d6kBeJjTGnY"
+    },
+    {
+      "id": 20,
+      "categoriaId": 3,
+      "titulo": "Saint Seiya The Lost Canvas - Trailer",
+          "url": "https://youtu.be/rG7A1rfetVU"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+     "titulo": "Summoners War",
+          "url": "https://youtu.be/6xYCsZW07o4"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+    "titulo": "Forza Horizon",
+          "url": "https://youtu.be/IcPz9Dlw9V8"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+       "titulo": "Mortal Kombat 9",
+          "url": "https://youtu.be/SfqmGy98Mw4"
+    },
+    {
+      "id": 24,
+      "categoriaId": 4,
+      "titulo": "Super Street Fighter 4",
+          "url": "https://youtu.be/R8SD_M_ccac"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "Darkstalkers",
+          "url": "https://youtu.be/WqBhOMBDgCs"
+    }
+  ]
+}

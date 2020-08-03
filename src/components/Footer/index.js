@@ -1,13 +1,11 @@
 import React from "react";
 import { FooterBase } from "./styles";
+import Img from "../../assets/img/lfflix_footer.png";
 
 function Footer() {
   return (
     <FooterBase>
-      <img
-        src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg"
-        alt="Logo lfflix"
-      />
+      <img src={Img} alt="logolfflix" />
       <p>
         Orgulhosamente criado durante a{" "}
         <a href="https://www.alura.com.br/">Imersão React da Alura</a>
